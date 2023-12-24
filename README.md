@@ -7,3 +7,7 @@ CMU CS 15-458/858: Discrete Differential Geometry
 ## Workflow for Project
 
 [CI_WORKFLOW](./CI_WORKFLOW.md)
+
+## Lecture Slides and Papers annotation
+
+See /docs/notes, /docs/slides

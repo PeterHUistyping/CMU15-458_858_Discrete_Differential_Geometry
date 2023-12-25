@@ -4,16 +4,16 @@ CMU CS 15-458/858: Discrete Differential Geometry
 
 [Course Link 2021](https://brickisland.net/DDGSpring2021/)
 
-## Workflow for the Project
+## Workflow for the Projects
 
-[CI_WORKFLOW](./CI_WORKFLOW.md)
+[Set Up Workflow](./CI_WORKFLOW.md)
 
-Coding exercises refer to a supplementary C++ framework, available from
+## Course Materials
 
-https://github.com/dgpdec/course
+- Lecture Slides and Papers annotation
 
+See docs/notes/ and docs/slides/
 
+- Supplementary C++ Coding exercises from lecture notes, available from [Link](https://github.com/dgpdec/course)
 
-## Lecture Slides and Papers annotation
-
-See /docs/notes, /docs/slides
+See coding_exercise/
